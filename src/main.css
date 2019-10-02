@@ -1,0 +1,14 @@
+.input {
+    margin : 100px 100px 0px 100px;
+    padding:20px;
+    align-self: center;
+}
+.block {
+    padding:2px;
+    margin-left:100px; 
+    margin-top:0px;
+float:left;
+}
+.output {
+    padding:0px 100px 0px 100px;
+}
